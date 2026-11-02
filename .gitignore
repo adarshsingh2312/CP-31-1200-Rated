@@ -1,0 +1,9 @@
+# ignore everything except sources + docs
+*
+!*/
+!*.cpp
+!Readme.md
+!.gitignore
+ 
+# scratch files
+tempCodeRunnerFile.cpp
